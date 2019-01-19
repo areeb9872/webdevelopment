@@ -1,0 +1,173 @@
+
+	/*p{
+	font-family: Calibri;
+	color: white;
+	font-size: 20px;
+}
+h1{
+	font-family: Broadway;
+	font-size : 70px;
+	color: green;
+	text-align: center;
+}
+h2{
+	font-family: Arial Black;
+    color: blue;
+	font-size: 20px;
+
+	         
+}
+
+
+
+h3{
+	font-family: Arial Black;
+	color: blue;
+	font-size: 20px;
+}
+h4{
+	font-family: Arial Black;
+	color: blue;
+	font-size: 20px;
+}
+h5{
+	font-family: Arial Black;
+	color: blue;
+	font-size: 20px;
+}
+h6{
+	font-family: Arial Black;
+	color: blue;
+	font-size: 20px;
+}
+h7{
+
+	font-family: Arial Black;
+	color: blue;
+	font-size: 20px;
+}
+h8{
+	font-family: Arial Black;
+	color: blue;
+	font-size: 20px;
+}
+body{
+	background:black;
+}
+ol{
+	color: white;
+	font-family: calibri;
+}
+ul{
+	color: white;
+	font-family: calibri;
+}
+dl{
+	color: yellow;
+	font-size: 20px;
+	font-family: calibri;
+}
+address{
+	color: yellow;
+	font-family: calibri;
+	font-size: 20px;
+}
+
+.img1-class{
+      width: 500px; 
+}
+.img2-class{
+	width: 500px;
+}
+*/
+.list{
+	list-style-type: none; display: inline;
+}
+
+#xyz{
+	font-family: Broadway;
+	font-size : 70px;
+	color: green;
+	text-align: center;
+}
+
+#abc{
+	font-family: Boadway;
+	font-size: 70px;
+	color: green;
+	text-align: center;
+
+}
+#po{
+	font-family: Boadway;
+	font-size: 70px;
+	color: green;
+	text-align: center;
+}
+.def{
+	margin: 10px;
+	text-align: center;
+}
+.ief{
+	margin: 15px;
+	text-align: center;
+}
+.wef{
+	margin: 20px;
+	text-align: center;
+	margin-left: 40%;
+}
+
+.nav-item > a:hover{
+	 background-color:#00cc00;
+	 color: white;
+	 font-weight: bold;
+	 border-radius: 15px;
+	 transition: 0.6s ease;
+	 
+}
+
+.carousel-item > img {
+	height: 50vh !important;
+}
+
+.nav-link {
+	padding: 20px !important;
+}
+
+.footer{
+	background-color:#343a40;
+}
+.elink {
+	color: white;
+	font-size: 20px
+}
+.ip{
+	color: white;
+	font-size: 20px
+}
+.link{
+	color: white;
+	font-size: 20px
+}
+.footer ul.unstyle-list{
+     list-style-type: none;
+}
+
+.footer ul.unstyle-list a {
+	 list-style-type: none;
+	 text-decoration: none;
+	 color: white;
+} 
+
+.footer ul.social-item a {
+
+	font-size: 30px;
+	color: white;
+	padding: 7px;
+}
+.footer div.company-portion span.company-name{
+	color: white;
+	padding: 28px;
+}
+
