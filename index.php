@@ -88,38 +88,40 @@
     require_once('footer.php');
    ?>
 
-   <script type="text/javascript">
+   <script>
    	/*var addresult;
    	var subresult;
    	var mulresult;
    	var divresult;
-   	var a=20,b=30,c=5;
-   	addresult=a+b+c
-   	var d=30,e=10,f=5
-   	subresult=d-e-f;
-   	var g=2,h=3;
-   	mulresult=g*h;
-   	var i=4,j=2;
-   	divresult=i/j;
-   	var fname="Areeb";
-   	var lname="Hussain";
-   	var name=` ${fanme} \n ${lname}`;
-   	var name=fanme+'  '+lname;
-   	var obj={'id':1,'name' : 'working'}
-   	console.log(addersult);
-   	console.log(subresult);
-   	console.log(mulresult);
-   	console.log(divresult);
-   	console.log(name);
-   	console.log(obj);*/
-   	var marks=30;
-   	if(marks>20){
-   		console.log("pass");
-   	}
-   	else{
-   		console.log("fail");
-   	}
+    var a=20;
+    var b=30;
+    var c=5;
+    addresult=a+b+c;
+    var d=30,e=10,f=5
+    subresult=d-e-f;
+    var g=2,h=3;
+    mulresult=g*h;
+    var i=4,j=2;
+    divresult=i/j;
+    var fname="Areeb";
+    var lname="Hussain";
+    var name=` ${fname} \n ${lname}`;
+    var name=fanme+' '+lanme;
+    var obj={'id':1,'name':'working'}
+    console.log(addresult);
+    console.log(subresult);
+    console.log(mulresult);
+    console.log(divresult);
+    console.log(name);
+    console.log(obj);*/
+   var marks=30;
+   if(marks>20){
+   	    console.log("pass");
+   }
+   else{
+   	 console.log("fail");
+   }
 
-   </script>
+</script>
 </body>
 </html>

@@ -30,6 +30,8 @@
 				<a href="contact.php" class="nav-link">ContactUs</a>></li>
 				<li class="nav-item">
 				<a href="image.php" class="nav-link">Images</a>></li>
+				<li class="nav-item">
+				<a href="portiofolio.php" class="nav-link">PortFolio</a>></li>
 				
 			</ul>
 			<ul class="navbar-nav justify-content-end w-100">

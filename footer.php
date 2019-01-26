@@ -23,6 +23,9 @@
        	 <li>
        	 	<a href="#"><i class="fas fa-angle-double-right"></i>Images</a>
        	 </li>
+       	 <li>
+       	 	<a href="#"><i class="fas fa-angle-double-right"></i>PortFolio</a>
+       	 </li>
        </ul>		
 	</div>
 	<div class="col-xm-12 col-sm-4 col-md-4 col-lg-4">
@@ -40,6 +43,10 @@
        	 <li>
        	 	<a href="#"><i class="fas fa-angle-double-right"></i>Images</a>
        	 </li>
+       	 <li>
+       	 	<a href="#"><i class="fas fa-angle-double-right"></i>PortFolio</a>
+       	 </li>
+       	 
        </ul>			
 	</div>
 
@@ -66,7 +73,13 @@
 			</ul>
 		</div>
 	</div>
-	<div class="row"></div>
+	<div class="row">
+		<div class="col-xm-12 col-sm-12 col-md-12 col-lg-12 text-white text-center">
+			<p class="paragraph"><a href="http://www.uilearning.com" target="-blank">
+			WebDevelopment</a>
+		@CopyRight 2019 Reserve</p>
+		</div>
+	</div>
 </div>
 
 

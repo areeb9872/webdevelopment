@@ -152,12 +152,16 @@ address{
 }
 .footer ul.unstyle-list{
      list-style-type: none;
+     color: 
+}
+.footer ul.unstyle-list a{
+	color: #fff;
 }
 
-.footer ul.unstyle-list a {
+.footer ul.unstyle-list a:hover {
 	 list-style-type: none;
 	 text-decoration: none;
-	 color: white;
+	 color: red;
 } 
 
 .footer ul.social-item a {
@@ -170,4 +174,88 @@ address{
 	color: white;
 	padding: 28px;
 }
-
+.footer p.paragraph > a{
+	color: white;
+	transition: .5s;
+}
+.footer p.paragraph > a:hover{
+	font-size: 20px;
+}
+.portfolio1-item {
+	width: 200px;
+}
+.portfolio2-item{
+	width: 200px;
+}
+.portfolio3-item{
+	width: 200px;
+}
+.portfolio4-item{
+	width: 200px;
+}
+.portfolio5-item{
+	width: 200px;
+}
+.portfolio6-item{
+	width: 200px;
+}
+.portfolio7-item{
+	width: 200px;
+}
+.portfolio8-item{
+	width: 200px;
+}
+.portfolio9-item{
+	width: 200px;
+}
+.portfolio10-item{
+	width: 200px;
+}
+.portfolio11-item{
+	width: 200px;
+}
+.portfolio12-item{
+	width: 200px;
+}
+.portfolio13-item{
+	width: 200px;
+}
+.portfolio14-item{
+	width: 200px;
+}
+.portfolio15-item{
+	width: 200px;
+}
+.portfolio16-item{
+	width: 200px;
+}
+.portfolio17-item{
+	width: 200px;
+}
+.portfolio18-item{
+	width: 200px;
+}
+.portfolio19-item{
+	width: 200px;
+}
+.portfolio20-item{
+	width: 200px;
+}
+.portfolio21-item{
+	width: 200px;
+}
+.portfolio22-item{
+	width: 200px;
+}
+.portfolio23-item{
+	width: 200px;
+}
+.portfolio24-item{
+	width: 200px;
+}
+.portfolio25-item{
+	width: 200px;
+}
+.portfolio26-item{
+	width: 200px;
+}
