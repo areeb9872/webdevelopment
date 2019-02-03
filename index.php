@@ -81,12 +81,15 @@
 	</div> -->
 
 	
-
+<input type="text" name="test" id="test" value=""><br><br><br><br>
+<button class="btn bth-primary submit">Submit</button><br><br><br>
 
 
 <?php 
     require_once('footer.php');
    ?>
+
+   
 
    <script>
    	/*var addresult;
@@ -114,13 +117,66 @@
     console.log(divresult);
     console.log(name);
     console.log(obj);*/
-   var marks=30;
+   /*var marks=30;
    if(marks>20){
    	    console.log("pass");
    }
    else{
    	 console.log("fail");
+   }*/
+   /*console.log('Banking System');
+  console.log('press 1 for Inquery');
+  console.log('press 2 for withdraw');
+   console.log('press 3 for transfer')
+   console.log('press 4 for break')
+
+
+   var option=2;
+   console.log('You have selected:  ',option) 
+   switch(option){
+   	case 1:
+   	     console.log('WELLCOME TO Inquery');
+   	    break;
+
+   	case 2:
+   	    console.log('WELLCOME TO withdraw');
+   	    break;
+
+   	case 3:
+   	    console.log('WELLCOME TO withdraw');
+   	    break;
+
+   	case 4:
+   	    console.log('WELLCOME TO for transfer');
+   	    break;
+
+   	default:
+   	    console.log('invalid input');
+   	    break;
+   }*/
+   
+   /*var table=10;
+   for(a=1;a<=10;a++){
+      
+      console.log( table +'x' + a +'=' + table*a );
+   }*/
+   /*function add(a=2,b=3){
+   	var sum=a+b;
+   	console.log(sum);
    }
+   add(4,5);*/
+   
+   $(document).ready(function(){
+         $('.submit').click(function(){
+
+         var value= $('#test').attr('name1','test12345');
+         $('#test').removeAttr('id');
+         console.log(value);
+
+        })
+   })
+
+
 
 </script>
 </body>
